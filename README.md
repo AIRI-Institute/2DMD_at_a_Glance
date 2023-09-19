@@ -10,13 +10,15 @@ For the broad scientific community and non-specialists/newcomers in the field of
 
 ## How to use
 The '2DMD at a Glance' Jupyter Notebook is designed according to the functional programming paradigm to make it easier for non-programmers to interact with this piece of code.
-1) The zipped version of the 2DMD dataset (5.92 MB, 2d-materials-point-defects-all.zip) will be downloaded automatically and stored in the folder from which the Jupyter Notebook "2DMD at a Glance" was started.
+1) The zipped version of the 2DMD dataset (5.4 MB, 2d-materials-point-defects-all.zip) will be downloaded automatically and stored in the folder from which the Jupyter Notebook "2DMD at a Glance" was started.
 2) Without prior unpacking, the dataset is converted to a pandas dataframe format , allowing easy access and manipulation of the data, and saved for later use.
 3) The code contains ready-made solutions for easy data access, visual and numerical analysis, and data manipulation tools.
 
+![pipeline](figures/pipeline.png)
+
 ## Library Requirements
 The developed tools do not require any proprietary software. 
-In addition to the Python standard library, the [NumPy](https://numpy.org/) and [Pandas](https://pandas.pydata.org/) libraries are used to process and store data and provide quick and easy access. 
+In addition to the Python standard library, the [NumPy](https://numpy.org/), [scikit-learn](https://scikit-learn.org), and [Pandas](https://pandas.pydata.org/) libraries are used to process and store data and provide quick and easy access. 
 For plotting and statistical data visualization, the [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) libraries are required. 
 To handle crystal structures, the [Pymatgen](https://pymatgen.org/) open-source Python library for materials analysis is used.
 To install (if needed), follow the installation tutorials.

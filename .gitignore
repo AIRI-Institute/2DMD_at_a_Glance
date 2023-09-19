@@ -1,4 +1,5 @@
 .DS_Store
 *.zip
 *.pkl.gz
+*.xyz
 .ipynb_checkpoints

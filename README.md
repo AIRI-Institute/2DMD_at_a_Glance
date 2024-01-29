@@ -20,5 +20,6 @@ The '2DMD at a Glance' Jupyter Notebook is designed according to the functional 
 The developed tools do not require any proprietary software. 
 In addition to the Python standard library, the [NumPy](https://numpy.org/), [scikit-learn](https://scikit-learn.org), and [Pandas](https://pandas.pydata.org/) libraries are used to process and store data and provide quick and easy access. 
 For plotting and statistical data visualization, the [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) libraries are required. 
-To handle crystal structures, the [Pymatgen](https://pymatgen.org/) open-source Python library for materials analysis is used.
+To handle crystal structures, the [Pymatgen](https://pymatgen.org/) open-source Python library for materials analysis is used. 
+For parallel running, the [JobLib](https://joblib.readthedocs.io/en/stable/) toolbox for Python is reqired.
 To install (if needed), follow the installation tutorials.

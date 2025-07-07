@@ -1,4 +1,4 @@
-# 2DMD at a Glance: An easy access, manipulation, visualization, and analysis of dataset
+# 2DMD at a Glance: An easy access, manipulation, visualization, and analysis of the datasets
 
 ## Introduction
 The rational design of new materials, as well as materials with desired and remarkable properties, is one of the central problems in modern computational chemistry and theoretical materials science. 

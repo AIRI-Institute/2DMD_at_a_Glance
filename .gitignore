@@ -3,3 +3,5 @@
 *.pkl.gz
 *.xyz
 .ipynb_checkpoints
+.*/pairplot.png
+.*/pipeline.pptx
